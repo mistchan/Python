@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 12 09:37:38 2018
-利用百度api实现图片文本识别
+利用百度api实现指定文件夹内所有图片转换为文本
 
+选择有目标图片的文件夹
 """
 
 import glob
